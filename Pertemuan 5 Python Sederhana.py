@@ -1,5 +1,3 @@
-import re
-import sys
 # Mendefinisikan variabel untuk menyimpan jumlah sks dan total nilai
 total_sks = 0
 total_nilai = 0
